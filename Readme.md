@@ -11,6 +11,6 @@ git commit --> to save the changes
 git commit -m "change title" -m "Change description"
 
 ssh-keygen -t ed25519 -C "Your Email"
-git push origin master
+git push origin
 
 
